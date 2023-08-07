@@ -2,9 +2,9 @@ import tkinter as tk
 import tkinter.filedialog
 import cv2
 import mediapipe as mp
-# import time
-# import matplotlib.pyplot as plt
-# import xlrd
+import time
+import matplotlib.pyplot as plt
+import xlrd
 import xlwt
 import numpy as np
 from tkinter import messagebox
