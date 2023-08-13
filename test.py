@@ -4,7 +4,7 @@ import cv2
 import mediapipe as mp
 import time
 import matplotlib.pyplot as plt
-import xlrd
+import xlrd # 解析excel
 import xlwt
 import numpy as np
 from tkinter import messagebox
